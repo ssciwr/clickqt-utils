@@ -10,7 +10,7 @@ A collection of `click` utilities that is also understood by `clickqt`.
 
 Currently, `clickqt-utils` contains the following utilities:
 
-* tba
+* `PathWithExtensions`: a `click.Path` type that only accepts files with configured extensions.
 
 They are usable with any CLI written in `click`, but they have the advantage
 of being directly understood by `clickqt`. Notably, this package does not
