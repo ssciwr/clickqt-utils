@@ -3,6 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ssciwr/clickqt-utils/ci.yml?branch=main)](https://github.com/ssciwr/clickqt-utils/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/ssciwr/clickqt-utils/branch/main/graph/badge.svg)](https://codecov.io/gh/ssciwr/clickqt-utils)
+[![PyPI version](https://img.shields.io/pypi/v/clickqt-utils)](https://pypi.org/project/clickqt-utils/)
+[![Conda Version](https://img.shields.io/conda/vn/conda-forge/clickqt-utils.svg)](https://anaconda.org/conda-forge/clickqt-utils)
 
 A collection of `click` utilities that is also understood by `clickqt`.
 
